@@ -5,3 +5,4 @@ Repostitory to "Generalised 3D Medical Image Registration with Learned Shape Enc
 ##Under Constuction. 
 
 This repo inlcudes training & test scripts, as well as pretrained models.
+Models download link: https://cloud.imi.uni-luebeck.de/s/tmLPxbDrpMLSwDS
